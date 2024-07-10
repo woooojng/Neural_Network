@@ -1,4 +1,4 @@
-#  Deep learning and Nerrural Network
+#  Deep learning and Neural Network
 
 This repository is collection of notes for learning skills for Neural Network and Deep learning, basically focused on improving Physics Informed Neural Network(PINN) skill.
 
